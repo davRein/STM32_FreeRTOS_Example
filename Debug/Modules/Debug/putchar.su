@@ -1,0 +1,3 @@
+putchar.c:18:1:__io_putchar	16	static
+putchar.c:24:6:_putchar	16	static
+putchar.c:41:6:lv_log_print_g_cb	16	static
